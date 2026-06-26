@@ -77,8 +77,9 @@ ProteinExt3/
 └── README.mdAvailability
 
 This repository contains source code, preprocessing scripts, fusion weights, evaluation scripts, label-space files, and benchmark summary tables required to reproduce the ProteinExt3 workflow. Large model checkpoints, full embeddings, full prediction TSV files, and intermediate OOF artifacts are not included because of file-size limitations.
+
 ```
 
 ## Citation
 
-Citation information will be added after publication.
+Citation information will be added after publication! 
